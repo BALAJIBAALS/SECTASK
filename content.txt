@@ -1,0 +1,8 @@
+Home page ->qhome.php
+Session page->session.php
+Reg page -> pro.php ,regw.php(validation),regsuc.php
+Login page-> logi.php,qlogw.php(validation)
+Rules page ->rules.html
+Quiz levels->q1.php,q2.php,q3.php,q4.php
+Wrong ans redirect->qlost.php
+Logout page->qlogout.php
